@@ -1,0 +1,279 @@
+# Stories prompts
+
+Here are some example of settings and stories that you can use with the AI-as-role-master prompts. You can copy and paste them into your LLM of choice after the rules prompt to start a game in that setting.
+
+## Cyberpunk Dystopia
+
+### The scrapper
+```
+The story is set up in the Cyberpunk universe. 
+You are a homeless junk scrapper. 
+In the past you were running a workshop fixing old chrome and building custom cybernetic implants, but after a corporate raid that left you nearly dead, you now survive by scavenging the ruins of the city for valuable tech.
+Use cyberpunk language and customs to create an immersive experience.
+Use realistic cyberpunk scenarios and challenges to create an engaging story.
+Use cyberpunk social structures, relations, habits, professions and challenges to create an engaging story.
+Use cyberpunk cybernetic enhancements and technology to create an immersive experience.
+Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
+### The transporter
+```
+The story is set up in the Cyberpunk universe.
+You are a transporter, someone who moves illegal goods and people across the city for a living.
+You have a customized vehicle equipped with advanced technology to help you evade the authorities and rival gangs.
+Use cyberpunk language and customs to create an immersive experience.
+Use realistic cyberpunk scenarios and challenges to create an engaging story.
+Use cyberpunk social structures, relations, habits, professions and challenges to create an engaging story.
+Use cyberpunk cybernetic enhancements and technology to create an immersive experience.
+Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
+### The anarchist syndicate member
+```
+The story is set up in the Cyberpunk universe.
+You are a member of an anarchist syndicate fighting against the oppressive corporate regime that controls the city.
+You specialize in hacking and sabotage, using your skills to disrupt corporate operations and help the oppressed citizens of the city.
+Use cyberpunk language and customs to create an immersive experience.
+Use realistic cyberpunk scenarios and challenges to create an engaging story.
+Use cyberpunk social structures, relations, habits, professions and challenges to create an engaging story.
+Use cyberpunk cybernetic enhancements and technology to create an immersive experience.
+Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
+### The Corpo agent
+```
+The story is set up in the Cyberpunk universe.
+You are a corporate agent working for one of the powerful megacorporations that control the city.
+You are tasked with carrying out covert operations to protect the interests of your corporation, including espionage, sabotage, and assassination.
+My loyalties are to the corporation above all else.
+Use cyberpunk language and customs to create an immersive experience.
+Use realistic cyberpunk scenarios and challenges to create an engaging story.
+Use cyberpunk social structures, relations, habits, professions and challenges to create an engaging story.
+Use cyberpunk cybernetic enhancements and technology to create an immersive experience.
+Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
+
+## Space opera
+### The stormtrooper
+```
+The story is set up in a distant galaxy ruled by an oppressive empire (Star Wars universe).
+I'm a stormtrooper, part of the empire's elite military force.
+I'm loyal to the empire, and I'm dedicated to maintaining order and suppressing rebellion across the galaxy.
+Use StarWars language and customs to create an immersive experience.
+Use realistic StarWars scenarios and challenges to create an engaging story.
+Use StarWars social structures, relations, habits, professions and challenges to create an engaging story.
+Use StarWars technology and equipment to create an immersive experience.
+Use StarWars language and customs to create an immersive experience.
+Use StarWars military tactics and strategies to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
+### The scavenger
+```
+The story is set up in a distant galaxy ruled by an oppressive empire (Star Wars universe).
+I'm a scravenger, someone who scavenges the ruins of old battles and abandoned ships for valuable technology and resources.
+I live on a planet on the outer rim, where life is tough and survival is a daily struggle.
+Use realistic StarWars scenarios and challenges to create an engaging story.
+Use StarWars social structures, relations, habits, professions and challenges to create an engaging story.
+Use StarWars technology and equipment to create an immersive experience.
+Use StarWars language and customs to create an immersive experience.
+Ask me about myself to create a unique character.
+```
+
+### The orphan with a connection to the Force
+```
+The story is set up in a distant galaxy ruled by an oppressive empire (Star Wars universe).
+I'm an orphan who grew up on the streets of a bustling spaceport city.
+I've learned to survive by my wits and street smarts, and I've developed a network of contacts and allies among the city's underworld.
+In the last months, I've discovered that I have a latent connection to the Force, which has opened up new possibilities and challenges for me, although there is noone that can teach me about it.
+Use realistic StarWars scenarios and challenges to create an engaging story.
+Use StarWars social structures, relations, habits, professions and challenges to create an engaging story.
+Use StarWars technology and equipment to create an immersive experience.
+Use StarWars language and customs to create an immersive experience.
+Ask me about myself to create a unique character.
+```
+
+## Middle Ages 
+
+### The Japanese blind monk
+```
+The story is set up in medieval Japan.
+You are a blind monk wandering the countryside, seeking enlightenment and helping those in need.
+You have trained in the art of swordsmanship and use your heightened senses to navigate the world around you.
+The land is filled with samurai, ninjas, and mystical creatures from Japanese folklore.
+Use medieval Japanese language (with translations) and customs to create an immersive experience.
+Use realistic medieval Japanese scenarios and challenges to create an engaging story.
+Use japanese feudal social structures, relations, habits, professions and challenges to create an engaging story.
+Use my blindness as a unique aspect of the character.
+Ask me about myself to create a unique character.
+```
+
+### The prophecy writer
+```
+The story is set up in a medieval realistic world.
+You are a humble scribe living in a small village.
+One day you discover that some of the things that you write, start to come true. Some of them are small things, like the weather or the outcome of a game, but others are more significant, like someone falling and injuring or animals appearing in the village. 
+Use medieval language and customs to create an immersive experience.
+Use medieval social structures, relations, habits, professions and challenges to create an engaging story.
+Use realistic medieval scenarios and challenges to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
+### The animal whisperer
+```
+The story is set up in a medieval realistic world.
+My secret is that I can communicate with animals of all kinds.
+This ability allows me to gather information, seek guidance, and even call upon animal allies when needed.
+I use this gift to help those in need, protect the natural world, and navigate the challenges of medieval life.
+Use medieval language and customs to create an immersive experience.
+Use medieval social structures, relations, habits, professions and challenges to create an engaging story.
+Use realistic medieval scenarios and challenges to create an engaging story.
+Ask me about myself to create a unique character.
+```  
+
+## Vampire the Masquerade
+
+### The hacker student
+```
+The story is set up in the Vampire the Masquerade universe.
+I'm a young university student who has recently been turned into a vampire.
+I'm trying to navigate my new life as a vampire while keeping up with my studies and maintaining my relationships with my human friends.
+Use modern language and customs to create an immersive experience.
+Use realistic modern scenarios and challenges to create an engaging story.
+Use modern social structures, relations, habits, professions and challenges to create an engaging story.
+Use vampire lore and characteristics to create an immersive experience.
+Use real hacker culture and characteristics to create an immersive experience.
+Use real technology and hacking techniques to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
+### The human detective
+```
+The story is set up in the Vampire the Masquerade universe.
+I'm a human detective who has recently discovered the existence of vampires.
+I'm trying to solve a series of mysterious murders that seem to be connected to the vampire world, while also trying to avoid becoming a target myself.
+Ask me about myself to create a unique character, including the city, the time and the context where the story takes place.
+```
+
+## Detective stories
+
+### The ghost friend
+```
+The story is set up in a 1940s noir city.
+I'm a private detective with a unique ability - I can see and communicate with a ghost. The ghost is the spirit of my late best friend, who was murdered under mysterious circumstances. I'm the only one that can see and hear him.
+We are a team trying to solve the mystery of his death while navigating the dangerous underworld of the city.
+Use 1940s noir language and customs to create an immersive experience.
+Use realistic 1940s scenarios and challenges to create an engaging story.
+Use 1940s social structures, relations, habits, professions and challenges to create an engaging story.
+Use paranormal lore and characteristics to create an immersive experience.
+Ask me about myself to create a unique character.
+```
+
+### The helping invisible hand
+```
+I'm a ghost that helps a private detective solve cases. 
+The private detective is an useless human that cannot solve anything without my help, but he cannot see or hear me.
+I have unfinished business in the mortal world, and helping the detective is my way of finding closure.
+Use 1940s noir language and customs to create an immersive experience.
+Use realistic 1940s scenarios and challenges to create an engaging story.
+Use 1940s social structures, relations, habits, professions and challenges to create an engaging story.
+Use 1940s ghost lore and characteristics to create an immersive experience.
+Use paranormal lore and characteristics to create an immersive experience.
+Ask me about myself to create a unique character.
+```
+
+
+## Real life based
+
+### My life as a dog
+```
+The story is set up in a modern city, and it's a realist setup.
+I'm a dog living with your human family. 
+I cannot speak, but I can learn human words (a limited number) and communicate through body language and actions.
+Every day is an adventure as I explore the world from my canine perspective, trying to understand human behavior and protect my family from various dangers (like mailmen, squirrels, and other dogs). I also like to create chaos in the house when no one is looking!
+Use realistic dog behavior and instincts to create an immersive experience. 
+Use real world scenarios and challenges to create an engaging story. 
+Use real human-dog relationships and interactions to create an engaging story.
+Use my breed characteristics to create a unique character.
+Use real life dog habits and challenges to create an engaging story.
+Use real life dog senses to create an immersive experience.
+Use real life dog emotions to create an immersive experience.
+Use real life dog motivations to create an immersive experience.
+Use real life dog communication methods to create an immersive experience.
+Use real life dog needs to create an immersive experience.
+Use real life family dynamics between the family members to create an engaging story.
+Ask me about my race, family and personality to create a unique character.
+```
+
+### SRE under attack
+```
+The story is set up in a modern tech company.
+I'm a Site Reliability Engineer (SRE) responsible for maintaining the uptime and performance of the company's critical systems.
+Suddenly, the company's infrastructure comes under a massive cyber attack, and it's up to me and my team to defend against the attackers, mitigate the damage, and restore normal operations as quickly as possible.
+Use realistic technical jargon and scenarios to create an immersive experience. 
+Use real world SRE practices and tools to solve the problems.
+Use real hacker techniques and tactics to simulate the attack and to create challenges.
+Use real life team dynamics and interactions to create an engaging story.
+Use real life company culture and politics to create an engaging story.
+Use real life stress and pressure of being an SRE during a crisis to create an immersive experience.
+Use real life incident response procedures to create an engaging story.
+Use real life communication methods during a crisis to create an immersive experience.
+Use real life problem solving techniques to create an engaging story.
+Use real life company hierarchy and roles to create an engaging story.
+Use real life IT infrastructure components to create an immersive experience.
+Use real life cyber security concepts to create an engaging story.
+Use real life monitoring and alerting systems to create an immersive experience.
+Use real life company communication channels to create an immersive experience.
+Ask me about my background, skills, and personality to create a unique character.
+```
+
+# TV Series Based
+
+## How I Met Your Mother
+```
+The story is set up in the universe of the TV series "How I Met Your Mother".
+I'm Barney Stinson. 
+Get ready to create legendary stories, suit up, and embrace the art of being awesome.
+Use Barney's catchphrases, mannerisms, and personality traits to create an immersive experience.
+Use realistic scenarios and challenges from the show to create an engaging story.
+Use the social dynamics and relationships between the main characters to create an engaging story.
+```
+
+## Big Bang Theory
+```
+The story is set up in the universe of the TV series "The Big Bang Theory".
+I'm a new character joining the group of friends.
+I just moved to the apartment up stairs from Leonard and Sheldon.
+Ask me about my background, personality, and interests to create a unique character.
+Use realistic scenarios and challenges from the show to create an engaging story.
+Use the social dynamics and relationships between the main characters to create an engaging story.
+```
+
+## Wednesday
+
+### The new student
+```
+The story is set up in the universe of the TV series "Wednesday".
+I'm a new student at Nevermore Academy.
+I have a unique background and special abilities that set me apart from the other students.
+Use realistic scenarios and challenges from the show to create an engaging story.
+Use the social dynamics and relationships between the main characters to create an engaging story.
+Ask me about my background, personality, and abilities to create a unique character.
+```
+
+### The teacher
+```
+I'm a new teacher at Nevermore Academy.
+I have a mysterious past and a unique teaching style that challenges the students to think outside the box.
+Use realistic scenarios and challenges from the show to create an engaging story.
+Use the social dynamics and relationships between the main characters to create an engaging story.
+Ask me about my background, personality, and teaching style to create a unique character.
+``` 
+
+
+
