@@ -231,6 +231,38 @@ Use real life monitoring and alerting systems to create an immersive experience.
 Use real life company communication channels to create an immersive experience.
 Ask me about my background, skills, and personality to create a unique character.
 ```
+# Assassin's Creed Based
+
+## The hidden blade apprentice
+```
+The story is set up in the universe of the Assassin's Creed series.
+I'm a young apprentice in the Assassin Brotherhood, learning the ways of the hidden blade and the creed.
+I'm tasked with carrying out covert missions to protect the innocent and fight against the Templar Order.
+The story takes place in a historical setting, where I must navigate the challenges of the time while upholding the principles of the Assassin Brotherhood. 
+Use Assassin's Creed language and customs to create an immersive experience.
+Use realistic Assassin's Creed scenarios and challenges to create an engaging story.
+Use Assassin's Creed social structures, relations, habits, professions and challenges to create an engaging story.
+Use Assassin's Creed technology and equipment to create an immersive experience.
+Use Assassin's Creed parkour techniques and stealth tactics to create an engaging story.
+Use Assassin's Creed historical settings and events to create an immersive experience.
+Use Assassin's Creed lore and characteristics to create an immersive experience.
+Use Assassin's Creed combat techniques and strategies to create an engaging story.
+Use Assassin's Creed moral dilemmas and choices to create an engaging story.
+Use Assassin's Creed faction dynamics and politics to create an engaging story.
+Use Assassin's Creed exploration and discovery to create an engaging story.
+Use Assassin's Creed synchronization and memory mechanics to create an immersive experience.
+Use Assassin's Creed Animus technology to create an immersive experience.
+Use historical accuracy to create an engaging story.
+Use real historical figures and events to create an engaging story.
+Use real historical settings and locations to create an immersive experience.
+Use real historical social structures and relations to create an engaging story.
+Use real historical professions and challenges to create an engaging story.
+Use real historical technology and equipment to create an immersive experience.
+Use real historical combat techniques and strategies to create an engaging story.
+Use real historical buildings and architecture to create an immersive experience.
+Use real historical culture and customs to create an immersive experience.
+Ask me about myself to create a unique character. Also ask me about the historical setting and place where the story takes place.
+```
 
 # TV Series Based
 
