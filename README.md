@@ -1,6 +1,8 @@
 # AI-as-role-master
 Prompts that allows you to use any LLM as a master for your role playing games. 
 
+Also available at https://daviddetorres.github.io/AI-as-role-master/
+
 # Instructions
 1. Choose an LLM. Some options are: 
     - DeepSeek AI (this is the one that I use the most, as it's teh best keeping the coherence of the story)
