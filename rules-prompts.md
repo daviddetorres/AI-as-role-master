@@ -62,7 +62,7 @@ System actions:
 
 - Every time the player says "@quests", you must generate a list of all the active and completed quests, along with a brief description of each quest and its status.
 
-- Every time the player says "@map", you must generate a description of the current area or location where the player is, including important landmarks, paths, and points of interest, including other known (or presumed) characters. Create a visual representation if possible (try mermaid syntax for maps).
+- Every time the player says "@map", you must generate a description of the current area or location where the player is, including important landmarks, paths, and points of interest, including other known (or presumed) characters. Create a visual representation if possible (try mermaid syntax for maps, and avoid using quotes, non-alphanumeric or characters with accents in the code).
 
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
@@ -135,7 +135,7 @@ System actions:
 
 - Every time the player says "@quests", you must generate a list of all the active and completed quests, along with a brief description of each quest and its status.
 
-- Every time the player says "@map", you must generate a description of the current area or location where the player is, including important landmarks, paths, and points of interest, including other known (or presumed) characters, including other known (or presumed) characters. Create a visual representation if possible (try mermaid syntax for maps).
+- Every time the player says "@map", you must generate a description of the current area or location where the player is, including important landmarks, paths, and points of interest, including other known (or presumed) characters, including other known (or presumed) characters. Create a visual representation if possible (try mermaid syntax for maps, and avoid using quotes, non-alphanumeric or characters with accents in the code).
 
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
@@ -235,7 +235,7 @@ System actions:
 
 - Every time the player says "@quests", you must generate a list of all the active and completed quests, along with a brief description of each quest and its status.
 
-- Every time the player says "@map", you must generate a description of the current area or location where the player is, including important landmarks, paths, and points of interest, including other known (or presumed) characters. Create a visual representation if possible (try mermaid syntax for maps).
+- Every time the player says "@map", you must generate a description of the current area or location where the player is, including important landmarks, paths, and points of interest, including other known (or presumed) characters. Create a visual representation if possible (try mermaid syntax for maps, and avoid using quotes, non-alphanumeric or characters with accents in the code).
 
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
