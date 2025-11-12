@@ -231,6 +231,30 @@ Use real life monitoring and alerting systems to create an immersive experience.
 Use real life company communication channels to create an immersive experience.
 Ask me about my background, skills, and personality to create a unique character.
 ```
+
+### The lawyer
+```
+The story is set up in a modern city.
+I'm a defense lawyer working for charity that provides legal aid to underprivileged clients.
+I take on cases that challenge the status quo and fight for justice in a system that often favors the wealthy and powerful.
+Use cases inspired by real life legal scenarios to create an engaging story, where I must navigate the complexities of the legal system while advocating for my clients' rights.
+Make sure to include courtroom drama, legal research, negotiation, and ethical dilemmas.
+Make a story where it's not clear if the client is guilty or innocent, and I must use my skills and intuition to uncover the truth.
+Use realistic legal jargon and scenarios to create an immersive experience. 
+Use real world legal practices and procedures to solve the cases.
+Use real life court dynamics and interactions to create an engaging story.
+Use real life lawyer-client relationships to create an engaging story.
+Use real life stress and pressure of being a defense lawyer to create an immersive experience.
+Use real life negotiation and persuasion techniques to create an engaging story.
+Use real life legal ethics and dilemmas to create an engaging story.
+Use real life legal research and investigation methods to create an immersive experience.
+Use real life legal documentation and paperwork to create an immersive experience.
+Use real life legal team dynamics and roles to create an engaging story.
+Use real life legal system structure and hierarchy to create an engaging story.
+Use real life legal technology and tools to create an immersive experience.
+Ask me about my background, skills, and personality to create a unique character.
+```
+
 # Assassin's Creed Based
 
 ## The hidden blade apprentice
@@ -287,7 +311,6 @@ Use the social dynamics and relationships between the main characters to create 
 ```
 
 ## Wednesday
-
 ### The new student
 ```
 The story is set up in the universe of the TV series "Wednesday".
@@ -307,5 +330,66 @@ Use the social dynamics and relationships between the main characters to create 
 Ask me about my background, personality, and teaching style to create a unique character.
 ``` 
 
+## House MD
+### The new diagnostician
+```
+The story is set up in the universe of the TV series "House MD".
+I'm a new diagnostician joining Dr. House's team at Princeton-Plainsboro Teaching Hospital.
+It's my new job, and I'm eager to prove myself in the high-pressure environment of diagnostic medicine.
+Use realistic medical scenarios and challenges from the show to create an engaging story.
+Use the personalities and dynamics of the existing team members of the series to create an engaging story.
+Use House MD medical terminology and diagnostic techniques to create an immersive experience.
+Use Dr. House's unconventional methods and problem-solving approaches to create an engaging story.
+Use Dr. House's witty and sarcastic humor to create an immersive experience.
+Use the social dynamics and relationships between the main characters to create an engaging story.
+Ask me about my medical background, personality, and approach to diagnostics to create a unique character.
+```
 
+## The Ministry of Time
+### The new recruit
+```
+The story is set up in the universe of the TV series "The Ministry of Time".
+I'm a new recruit in the Ministry of Time, an organization that protects the history of Spain by preventing time travelers from altering the past.
+I have a unique background and skills that make me a valuable asset to the team.
+Use realistic scenarios and challenges from the show to create an engaging story.
+Use the personalities and dynamics of the existing team members of the series to create an engaging story.
+Use The Ministry of Time's time travel technology and protocols to create an immersive experience.
+Use The Ministry of Time's historical settings and events to create an immersive experience.
+Use The Ministry of Time's moral dilemmas and choices to create an engaging story.
+Use The Ministry of Time's faction dynamics and politics to create an engaging story.
+Use The Ministry of Time's exploration and discovery to create an engaging story.
+Use The Ministry of Time's historical accuracy to create an engaging story.
+Use real historical figures and events to create an engaging story.
+Use real historical settings and locations to create an immersive experience.
+Use real historical social structures and relations to create an engaging story.
+Use real historical professions and challenges to create an engaging story.
+Use real historical technology and equipment to create an immersive experience.
+Use real historical culture and customs to create an immersive experience.
+Use comedy and drama elements to create an engaging story.
+Use the real characters and relationships from the show to create an engaging story.
+Ask me about my background, personality, and skills to create a unique character.
+```
 
+# Literature Based
+## Don Quixote
+### The squire
+```
+The story is set up in the universe of the novel "Don Quixote" by Miguel de Cervantes.
+I'm Sancho Panza, the loyal squire of Don Quixote.
+I'm a simple farmer who has joined Don Quixote on his quest to revive chivalry and fight for justice.
+Use realistic scenarios and challenges from the novel to create an engaging story.
+Use the personalities and dynamics of Don Quixote and Sancho Panza to create an engaging story.
+Use Don Quixote's idealism and Sancho Panza's pragmatism to create an immersive experience.
+Use the social dynamics and relationships between the main characters to create an engaging story.
+Use the historical and cultural context of 17th century Spain to create an immersive experience.
+Use the humor and satire of the novel to create an engaging story.
+Use the themes of chivalry, honor, and friendship to create an engaging story.
+Use the adventures and misadventures of Don Quixote and Sancho Panza to create an engaging story.
+Use the literary style and language of the novel to create an immersive experience.
+Use real historical events and figures from 17th century Spain to create an engaging story.
+Use real historical settings and locations from 17th century Spain to create an immersive experience.
+Use real historical social structures and relations from 17th century Spain to create an engaging story.
+Use real historical professions and challenges from 17th century Spain to create an engaging story.
+Use real historical culture and customs from 17th century Spain to create an immersive experience.
+Ask me about my background, personality, and motivations to create a unique character.
+```
