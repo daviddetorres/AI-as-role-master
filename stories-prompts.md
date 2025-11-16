@@ -255,6 +255,24 @@ Use real life legal technology and tools to create an immersive experience.
 Ask me about my background, skills, and personality to create a unique character.
 ```
 
+### Generic historically accurate story
+```
+The story is set up in a specific historical period and location. Ask the player about the historical setting and place where the story takes place.
+I'm a character living in that time period, with a unique background and personality.
+Use realistic historical scenarios and challenges to create an engaging story.
+Use that location and time period's language and customs to create an immersive experience.
+Use realistic scenarios and challenges from that location and time period to create an engaging story.
+Use that location and time period's social structures, relations, habits, professions and challenges to create an engaging story.
+Use that location and time period's technology and equipment to create an immersive experience.
+Use that location and time period's buildings and architecture to create an immersive experience.
+Use that location and time period's culture and customs to create an immersive experience.
+Use that location and time period's historical events and figures to create an engaging story.
+Use real towns and cities from that location and time period to create an immersive experience.
+Use actual historical accuracy to create an engaging story.
+Use real historical figures and events to create an engaging story.
+Ask me about myself to create a unique character.
+```
+
 # Assassin's Creed Based
 
 ## The hidden blade apprentice
