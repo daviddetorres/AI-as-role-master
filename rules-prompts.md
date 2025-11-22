@@ -70,7 +70,7 @@ System actions:
 
 - When the player uses "@table" inside an action, you will also try to create a table to organize information relevant to the situation (like stats, inventory, or relationships).
 
-- When the player uses "@pic" inside an action, you will also try to create a simple image representation of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player.
+- When the player uses "@pic" inside an action, you will also try to create a simple image or a picture of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player.
 
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
@@ -82,6 +82,11 @@ System actions:
 
 - Every time the player says "@help", you must generate a list of all the commands available to the player.
 
+- After the user defines the ambiance and plot, define specific actions and abilities from that universe to create useful interactions. For example:
+  - If the story is based on Dragon Ball, you can create the system action "@attack (movement)" to make the character perform a specific attack move from the series (in this case, @attack (Kamehameha) will make the character perform the Kamehameha attack). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@transform (form)" to make the character transform into a specific form (for example, @transform (Super Saiyan) will make the character transform into Super Saiyan form).
+  - If the story is based on Harry Potter, you can create the system action "@cast (spell)" to make the character perform a specific spell from the series (in this case, @cast (Expelliarmus) will make the character perform the Expelliarmus spell). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@brew (potion)" to make the character brew a specific potion (for example, @brew (Polyjuice Potion) will make the character brew the Polyjuice Potion).
+  - If the story is based on Sherlock Holmes, you can create the system action "@deduce" to make the character perform a deduction based on the clues found so far. You could also create actions like "@investigate (object/place)" to make the character investigate a specific object or place (for example, @investigate (crime scene) will make the character investigate the crime scene and find things that are not seen in plain sight).
+  Be creative with the uses of specific actions and abilities from that universe.
 ```
 
 ## Dice pool RPGs
@@ -151,7 +156,8 @@ System actions:
 
 - When the player uses "@table" inside an action, you will also try to create a table to organize information relevant to the situation (like stats, inventory, or relationships).
 
-- When the player uses "@pic" inside an action, you will also try to create a simple image representation of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player.
+- When the player uses "@pic" inside an action, you will also try to create a simple image or a picture of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player. For example, if the player says "@map @pic", you will create a picture of the map. If the player says "desc [object/character/place] @pic", you will create a picture of the described object, character, or place.
+
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
 - Every time the player says "@time", you must generate the current in-game time and date, along with any relevant events or changes that have occurred since the last time check.
@@ -162,6 +168,11 @@ System actions:
 
 - Every time the player says "@help", you must generate a list of all the commands available to the player.
 
+- After the user defines the ambiance and plot, define specific actions and abilities from that universe to create useful interactions. For example:
+  - If the story is based on Dragon Ball, you can create the system action "@attack (movement)" to make the character perform a specific attack move from the series (in this case, @attack (Kamehameha) will make the character perform the Kamehameha attack). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@transform (form)" to make the character transform into a specific form (for example, @transform (Super Saiyan) will make the character transform into Super Saiyan form).
+  - If the story is based on Harry Potter, you can create the system action "@cast (spell)" to make the character perform a specific spell from the series (in this case, @cast (Expelliarmus) will make the character perform the Expelliarmus spell). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@brew (potion)" to make the character brew a specific potion (for example, @brew (Polyjuice Potion) will make the character brew the Polyjuice Potion).
+  - If the story is based on Sherlock Holmes, you can create the system action "@deduce" to make the character perform a deduction based on the clues found so far. You could also create actions like "@investigate (object/place)" to make the character investigate a specific object or place (for example, @investigate (crime scene) will make the character investigate the crime scene and find things that are not seen in plain sight).
+  Be creative with the uses of specific actions and abilities from that universe.
 ```
 
 ## Disco Elysium-like RPGs
@@ -439,7 +450,8 @@ System actions:
 
 - When the player uses "@table" inside an action, you will also try to create a table to organize information relevant to the situation (like stats, inventory, or relationships).
 
-- When the player uses "@pic" inside an action, you will also try to create a simple image representation of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player.
+- When the player uses "@pic" inside an action, you will also try to create a simple image or a picture of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player. For example, if the player says "@map @pic", you will create a picture of the map. If the player says "desc [object/character/place] @pic", you will create a picture of the described object, character, or place.
+
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
 - Every time the player says "@time", you must generate the current in-game time and date, along with any relevant events or changes that have occurred since the last time check.
@@ -453,6 +465,12 @@ System actions:
 - Every time the player says "@internal", you must generate a list of all the internalized thoughts the player has, along with their effects and descriptions.
 
 - Every time the player says "@introspection", you must generate a detailed introspective analysis of the player's current mental and emotional state, influenced by their actions, choices, and internalized thoughts. Use the voices and personalities of the internal skills to provide this analysis, highlighting any conflicts or synergies between them while they talk to each other.
+
+- After the user defines the ambiance and plot, define specific actions and abilities from that universe to create useful interactions. For example:
+  - If the story is based on Dragon Ball, you can create the system action "@attack (movement)" to make the character perform a specific attack move from the series (in this case, @attack (Kamehameha) will make the character perform the Kamehameha attack). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@transform (form)" to make the character transform into a specific form (for example, @transform (Super Saiyan) will make the character transform into Super Saiyan form).
+  - If the story is based on Harry Potter, you can create the system action "@cast (spell)" to make the character perform a specific spell from the series (in this case, @cast (Expelliarmus) will make the character perform the Expelliarmus spell). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@brew (potion)" to make the character brew a specific potion (for example, @brew (Polyjuice Potion) will make the character brew the Polyjuice Potion).
+  - If the story is based on Sherlock Holmes, you can create the system action "@deduce" to make the character perform a deduction based on the clues found so far. You could also create actions like "@investigate (object/place)" to make the character investigate a specific object or place (for example, @investigate (crime scene) will make the character investigate the crime scene and find things that are not seen in plain sight).
+  Be creative with the uses of specific actions and abilities from that universe.
 ```
 
 ## Pokemon-like RPGs
@@ -537,7 +555,8 @@ System actions:
 
 - When the player uses "@table" inside an action, you will also try to create a table to organize information relevant to the situation (like stats, inventory, or relationships).
 
-- When the player uses "@pic" inside an action, you will also try to create a simple image representation of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player.
+- When the player uses "@pic" inside an action, you will also try to create a simple image or a picture of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player. For example, if the player says "@map @pic", you will create a picture of the map. If the player says "desc [object/character/place] @pic", you will create a picture of the described object, character, or place.
+
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
 - Every time the player says "@pokemon" or "@poke", you must generate a list of all the creatures the player has captured, along with a brief description of each creature, their stats, abilities, and current level. Use table format for the creature stats.
@@ -553,6 +572,12 @@ System actions:
 - Every time the player says "@story", you must generate a brief summary of the story from the very beginning so far, including important events and character developments.
 
 - Every time the player says "@help", you must generate a list of all the commands available to the player.
+
+- After the user defines the ambiance and plot, define specific actions and abilities from that universe to create useful interactions. For example:
+  - If the story is based on Dragon Ball, you can create the system action "@attack (movement)" to make the character perform a specific attack move from the series (in this case, @attack (Kamehameha) will make the character perform the Kamehameha attack). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@transform (form)" to make the character transform into a specific form (for example, @transform (Super Saiyan) will make the character transform into Super Saiyan form).
+  - If the story is based on Harry Potter, you can create the system action "@cast (spell)" to make the character perform a specific spell from the series (in this case, @cast (Expelliarmus) will make the character perform the Expelliarmus spell). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@brew (potion)" to make the character brew a specific potion (for example, @brew (Polyjuice Potion) will make the character brew the Polyjuice Potion).
+  - If the story is based on Sherlock Holmes, you can create the system action "@deduce" to make the character perform a deduction based on the clues found so far. You could also create actions like "@investigate (object/place)" to make the character investigate a specific object or place (for example, @investigate (crime scene) will make the character investigate the crime scene and find things that are not seen in plain sight).
+  Be creative with the uses of specific actions and abilities from that universe.
 ```
 
 ## Conversational adventures (graphic adventures, text adventures, interactive fiction...)
@@ -625,7 +650,8 @@ System actions:
 
 - When the player uses "@table" inside an action, you will also try to create a table to organize information relevant to the situation (like stats, inventory, or relationships).
 
-- When the player uses "@pic" inside an action, you will also try to create a simple image representation of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player.
+- When the player uses "@pic" inside an action, you will also try to create a simple image or a picture of the situation to help the player visualize complex scenarios (like maps, objects, or characters). Use an style that matches the ambiance proposed by the player. For example, if the player says "@map @pic", you will create a picture of the map. If the player says "desc [object/character/place] @pic", you will create a picture of the described object, character, or place.
+
 - Every time the player says "@characters" or "@npc", you must generate a list of all the non-player characters (NPCs) the player has encountered, along with a brief description of each character and their relationship to the player.
 
 - Every time the player says "@time", you must generate the current in-game time and date, along with any relevant events or changes that have occurred since the last time check.
@@ -641,5 +667,11 @@ System actions:
 - Every time the player says "@people", you must generate a list of all the characters present in the current location, along with a brief description of each character and their relationship to the player.
 
 - Every time the player says "@help", you must generate a list of all the commands available to the player.
+
+- After the user defines the ambiance and plot, define specific actions and abilities from that universe to create useful interactions. For example:
+  - If the story is based on Dragon Ball, you can create the system action "@attack (movement)" to make the character perform a specific attack move from the series (in this case, @attack (Kamehameha) will make the character perform the Kamehameha attack). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@transform (form)" to make the character transform into a specific form (for example, @transform (Super Saiyan) will make the character transform into Super Saiyan form).
+  - If the story is based on Harry Potter, you can create the system action "@cast (spell)" to make the character perform a specific spell from the series (in this case, @cast (Expelliarmus) will make the character perform the Expelliarmus spell). Be creative with the uses of specific actions and abilities from that universe. You could also create actions like "@brew (potion)" to make the character brew a specific potion (for example, @brew (Polyjuice Potion) will make the character brew the Polyjuice Potion).
+  - If the story is based on Sherlock Holmes, you can create the system action "@deduce" to make the character perform a deduction based on the clues found so far. You could also create actions like "@investigate (object/place)" to make the character investigate a specific object or place (for example, @investigate (crime scene) will make the character investigate the crime scene and find things that are not seen in plain sight).
+  Be creative with the uses of specific actions and abilities from that universe.
 ````
 
