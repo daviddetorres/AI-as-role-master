@@ -389,46 +389,26 @@ Ask me about my background, personality, and skills to create a unique character
 ```
 
 # Anime Based
-## Dragon Ball Z
-### The Saiyan warrior
+## Generic Anime
 ```
-The story is set up in the universe of the anime "Dragon Ball Z".
-I'm Goku, the Saiyan warrior from planet Vegeta.
-I'm on a quest to protect Earth from powerful villains and to become the strongest fighter in the universe
-Use Dragon Ball Z language and customs to create an immersive experience.
-Use realistic Dragon Ball Z scenarios and challenges to create an engaging story.
-Use Dragon Ball Z social structures, relations, habits, professions and challenges to create an engaging story
-Use Dragon Ball Z technology and equipment to create an immersive experience.
-Use Dragon Ball Z combat techniques and strategies to create an engaging story.
-Use Dragon Ball Z transformations and power-ups to create an immersive experience.
-Use Dragon Ball Z moral dilemmas and choices to create an engaging story.
-Use Dragon Ball Z faction dynamics and politics to create an engaging story.
-Use Dragon Ball Z exploration and discovery to create an engaging story.
-Use Dragon Ball Z lore and characteristics to create an immersive experience.
-Use Dragon Ball Z energy manipulation and ki techniques to create an immersive experience.
-Use Dragon Ball characters and relationships from the show to create an engaging story.
-Ask me about what is my state in this adventure (is Goku alive, dead, in other planet, etc) to create a coherent story.
-```
-
-## Demon Slayer
-### The demon slayer apprentice
-```
-The story is set up in the universe of the anime "Demon Slayer".
-I'm a young apprentice in the Demon Slayer Corps, learning the ways of the sword and the art
-of demon hunting.
-I'm tasked with carrying out missions to protect humanity from the threat of demons.
-Use Demon Slayer language and customs to create an immersive experience.
-Use realistic Demon Slayer scenarios and challenges to create an engaging story.
-Use Demon Slayer social structures, relations, habits, professions and challenges to create an engaging story.
-Use Demon Slayer technology and equipment to create an immersive experience.
-Use Demon Slayer combat techniques and strategies to create an engaging story.
-Use Demon Slayer breathing techniques and forms to create an immersive experience.
-Use Demon Slayer moral dilemmas and choices to create an engaging story.
-Use Demon Slayer faction dynamics and politics to create an engaging story.
-Use Demon Slayer exploration and discovery to create an engaging story.
-Use Demon Slayer lore and characteristics to create an immersive experience.
-Use Demon Slayer's characters and relationships from the show to create an engaging story.
-Ask me about myself to create a unique character. Also ask me about the historical setting and place where the story takes place.
+The story is set up in an anime or manga universe that the player chooses. Let me know which one (e.g., Naruto, One Piece, My Hero Academia, Rurouni Kenshin, Sakamoto Days, etc).
+I'm a character living in that universe, with a unique background and personality.
+Use realistic scenarios and challenges from that universe to create an engaging story.
+Use that universe's language and customs to create an immersive experience.
+Use realistic scenarios and challenges from that universe to create an engaging story.
+Use that universe's social structures, relations, habits, professions and challenges to create an engaging story
+Use that universe's technology and equipment to create an immersive experience.
+Use that universe's combat techniques and strategies to create an engaging story.
+Use that universe's moral dilemmas and choices to create an engaging story.
+Use that universe's faction dynamics and politics to create an engaging story.
+Use that universe's exploration and discovery to create an engaging story.
+Use that universe's lore and characteristics to create an immersive experience.
+Use that universe's energy manipulation and special techniques to create an immersive experience.
+Use that universe's characters and relationships from the show to create an engaging story.
+Use that universe's historical accuracy to create an engaging story.
+Use the language and customs of that universe to create an immersive experience.
+Use real towns and cities from that universe to create an immersive experience.
+Ask me about myself to create a unique character. Also ask me about the specific anime or manga universe where the story takes place.
 ```
 
 ## Death Note
@@ -446,76 +426,6 @@ Use Death Note faction dynamics and politics to create an engaging story.
 Use Death Note exploration and discovery to create an engaging story.
 Use Death Note lore and characteristics to create an immersive experience.
 Use Death Note's characters and relationships from the show to create an engaging story.
-Ask me about myself to create a unique character.
-```
-
-## Rurouni Kenshin
-### The wandering swordsman
-```
-The story is set up in the universe of the anime "Rurouni Kenshin".
-I'm Kenshin Himura, a wandering swordsman with a dark past.
-I've vowed to never kill again and use my sword to protect the innocent and fight for justice.
-Use Rurouni Kenshin language and customs to create an immersive experience.
-Use realistic Rurouni Kenshin scenarios and challenges to create an engaging story.
-Use Rurouni Kenshin social structures, relations, habits, professions and challenges to create an engaging story.
-Use Rurouni Kenshin technology and equipment to create an immersive experience.
-Use Rurouni Kenshin combat techniques and strategies to create an engaging story.
-Use Rurouni Kenshin moral dilemmas and choices to create an engaging story.
-Use Rurouni Kenshin faction dynamics and politics to create an engaging story.
-Use Rurouni Kenshin exploration and discovery to create an engaging story.
-Use Rurouni Kenshin lore and characteristics to create an immersive experience.
-Use Rurouni Kenshin's characters and relationships from the show to create an engaging story.
-Use Kenshin's unique fighting style and techniques to create an immersive experience.
-Use Kenshin's internal struggle and redemption arc to create an engaging story.
-Use the historical setting of the Meiji era to create an immersive experience.
-Use real historical events and figures from the Meiji era to create an engaging story.
-Use real historical settings and locations from the Meiji era to create an immersive experience.
-Use real historical social structures and relations from the Meiji era to create an engaging story.
-Use real historical professions and challenges from the Meiji era to create an engaging story.
-Use real historical culture and customs from the Meiji era to create an immersive experience.
-Use Kenshin's relationships with other characters to create an engaging story.
-Use Kenshin's allies and enemies to create an engaging story.
-Use Kenshin0s past experiences as hitokiri to create an engaging story.
-Use Japanese language and customs to create an immersive experience.
-Use realistic Japanese scenarios and challenges to create an engaging story.
-Use Japanese social structures, relations, habits, professions and challenges to create an engaging story.
-Use Japanese technology and equipment to create an immersive experience.
-Use Japanese combat techniques and strategies to create an engaging story.
-Use Japanese moral dilemmas and choices to create an engaging story.
-Use Japanese faction dynamics and politics to create an engaging story.
-Use Japanese exploration and discovery to create an engaging story.
-Use Japanese lore and characteristics to create an immersive experience.
-Use Japanese historical settings and events to create an immersive experience.
-Ask me about my current situation, allies, and enemies to create a coherent story.
-```
-
-### Sakamoto Days
-```
-The story is set up in the universe of the anime "Sakamoto Days".
-I'm an assassin that is trying to kill Taro Sakamoto, a former legendary hitman who has retired to live a peaceful life as a family man and convenience store owner.
-Use Sakamoto Days language and customs to create an immersive experience.
-Use realistic Sakamoto Days scenarios and challenges to create an engaging story.
-Use Sakamoto Days social structures, relations, habits, professions and challenges to create an engaging story.
-Use Sakamoto Days technology and equipment to create an immersive experience.
-Use Sakamoto Days combat techniques and strategies to create an engaging story.
-Use Sakamoto Days moral dilemmas and choices to create an engaging story.
-Use Sakamoto Days faction dynamics and politics to create an engaging story.
-Use Sakamoto Days exploration and discovery to create an engaging story.
-Use Sakamoto Days lore and characteristics to create an immersive experience.
-Use Sakamoto Days's characters and relationships from the show to create an engaging story.
-Use Japanese language and customs to create an immersive experience.
-Use realistic Japanese scenarios and challenges to create an engaging story.
-Use Japanese social structures, relations, habits, professions and challenges to create an engaging story.
-Use Japanese technology and equipment to create an immersive experience.
-Use Japanese combat techniques and strategies to create an engaging story.
-Use Japanese moral dilemmas and choices to create an engaging story.
-Use Japanese faction dynamics and politics to create an engaging story.
-Use Japanese exploration and discovery to create an engaging story.
-Use Japanese lore and characteristics to create an immersive experience.
-Use Taro Sakamoto's family dynamics and relationships to create an engaging story.
-Use Taro Sakamoto's past experiences as a hitman to create an engaging story.
-Use real life assassin techniques and tactics to create an engaging story.
-Use real life Japanese culture and customs to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
 
