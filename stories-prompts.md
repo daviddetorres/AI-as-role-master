@@ -306,6 +306,88 @@ Use real historical culture and customs to create an immersive experience.
 Ask me about myself to create a unique character. Also ask me about the historical setting and place where the story takes place.
 ```
 
+# Fallout Based
+## The vault dweller
+```
+The story is set up in the universe of the Fallout series.
+I'm a vault dweller, someone who has lived their entire life in an underground vault designed to protect its inhabitants from the dangers of the post-apocalyptic wasteland.
+I've recently emerged from the vault to explore the outside world and find a new home.
+Use Fallout language and customs to create an immersive experience.
+Use realistic Fallout scenarios and challenges to create an engaging story.
+Use Fallout social structures, relations, habits, professions and challenges to create an engaging story.
+Use Fallout technology and equipment to create an immersive experience.
+Use Fallout combat techniques and strategies to create an engaging story.
+Use Fallout moral dilemmas and choices to create an engaging story.
+Use Fallout faction dynamics and politics to create an engaging story.
+Use Fallout exploration and discovery to create an engaging story.
+Use Fallout lore and characteristics to create an immersive experience.
+Use Fallout's SPECIAL attributes and skills system to create an engaging story.
+Use Fallout's V.A.T.S. combat system to create an immersive experience.
+Use Fallout's crafting and settlement building mechanics to create an engaging story.
+Use real post-apocalyptic scenarios and challenges to create an engaging story.
+Use real survival techniques and strategies to create an engaging story.
+Use real radiation effects and mutations to create an immersive experience.
+Use real wasteland factions and politics to create an engaging story.
+Use real scavenging and looting techniques to create an engaging story.
+Use real post-apocalyptic technology and equipment to create an immersive experience.
+Use real post-apocalyptic culture and customs to create an immersive experience.
+Ask me about myself to create a unique character.
+```
+
+## The ghoul survivor
+```
+The story is set up in the universe of the Fallout series.
+I'm a ghoul survivor, someone who has been exposed to high levels of radiation and has undergone a transformation into a ghoul.
+Despite my appearance, I retain my human intelligence and emotions, and I struggle to find acceptance in a world that fears and discriminates against ghouls.
+Use Fallout language and customs to create an immersive experience.
+Use realistic Fallout scenarios and challenges to create an engaging story.
+Use Fallout social structures, relations, habits, professions and challenges to create an engaging story.
+Use Fallout technology and equipment to create an immersive experience.
+Use Fallout combat techniques and strategies to create an engaging story.
+Use Fallout moral dilemmas and choices to create an engaging story.
+Use Fallout faction dynamics and politics to create an engaging story.
+Use Fallout exploration and discovery to create an engaging story.
+Use Fallout lore and characteristics to create an immersive experience.
+Use Fallout's SPECIAL attributes and skills system to create an engaging story.
+Use Fallout's V.A.T.S. combat system to create an immersive experience.
+Use Fallout's crafting and settlement building mechanics to create an engaging story.
+Use real post-apocalyptic scenarios and challenges to create an engaging story.
+Use real survival techniques and strategies to create an engaging story.
+Use real radiation effects and mutations to create an immersive experience.
+Use real wasteland factions and politics to create an engaging story.
+Use real scavenging and looting techniques to create an engaging story.
+Use real post-apocalyptic technology and equipment to create an immersive experience.
+Use real post-apocalyptic culture and customs to create an immersive experience.
+Ask me about myself to create a unique character.
+```
+
+## The wasteland citizen
+```
+The story is set up in the universe of the Fallout series.
+I'm a wasteland citizen, someone who has adapted to life in the harsh and dangerous post-apocalyptic world in a small community or city.
+I've learned to survive by my wits and resourcefulness, and I've developed a network of contacts and allies among the various factions and communities that inhabit the wasteland.
+Use Fallout language and customs to create an immersive experience.
+Use realistic Fallout scenarios and challenges to create an engaging story.
+Use Fallout social structures, relations, habits, professions and challenges to create an engaging story.
+Use Fallout technology and equipment to create an immersive experience.
+Use Fallout combat techniques and strategies to create an engaging story.
+Use Fallout moral dilemmas and choices to create an engaging story.
+Use Fallout faction dynamics and politics to create an engaging story.
+Use Fallout exploration and discovery to create an engaging story.
+Use Fallout lore and characteristics to create an immersive experience.
+Use Fallout's SPECIAL attributes and skills system to create an engaging story.
+Use Fallout's V.A.T.S. combat system to create an immersive experience.
+Use Fallout's crafting and settlement building mechanics to create an engaging story.
+Use real post-apocalyptic scenarios and challenges to create an engaging story.
+Use real survival techniques and strategies to create an engaging story.
+Use real radiation effects and mutations to create an immersive experience.
+Use real wasteland factions and politics to create an engaging story.
+Use real scavenging and looting techniques to create an engaging story.
+Use real post-apocalyptic technology and equipment to create an immersive experience.
+Use real post-apocalyptic culture and customs to create an immersive experience.
+Ask me about myself to create a unique character.
+```
+
 # TV Series Based
 
 ## How I Met Your Mother
