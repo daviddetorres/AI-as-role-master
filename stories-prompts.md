@@ -5,6 +5,11 @@ Here are some example of settings and stories that you can use with the AI-as-ro
 ## Cyberpunk Dystopia
 
 ### The scrapper
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the Cyberpunk universe. 
 You are a homeless junk scrapper. 
@@ -16,8 +21,14 @@ Use cyberpunk cybernetic enhancements and technology to create an immersive expe
 Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The transporter
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the Cyberpunk universe.
 You are a transporter, someone who moves illegal goods and people across the city for a living.
@@ -29,8 +40,14 @@ Use cyberpunk cybernetic enhancements and technology to create an immersive expe
 Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The anarchist syndicate member
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the Cyberpunk universe.
 You are a member of an anarchist syndicate fighting against the oppressive corporate regime that controls the city.
@@ -42,8 +59,14 @@ Use cyberpunk cybernetic enhancements and technology to create an immersive expe
 Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The Corpo agent
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the Cyberpunk universe.
 You are a corporate agent working for one of the powerful megacorporations that control the city.
@@ -56,10 +79,15 @@ Use cyberpunk cybernetic enhancements and technology to create an immersive expe
 Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
 Ask me about myself to create a unique character.
 ```
-
+</details>
 
 ## Space opera
 ### The stormtrooper
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a distant galaxy ruled by an oppressive empire (Star Wars universe).
 I'm a stormtrooper, part of the empire's elite military force.
@@ -72,8 +100,14 @@ Use StarWars language and customs to create an immersive experience.
 Use StarWars military tactics and strategies to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The scavenger
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a distant galaxy ruled by an oppressive empire (Star Wars universe).
 I'm a scravenger, someone who scavenges the ruins of old battles and abandoned ships for valuable technology and resources.
@@ -84,8 +118,14 @@ Use StarWars technology and equipment to create an immersive experience.
 Use StarWars language and customs to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The orphan with a connection to the Force
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a distant galaxy ruled by an oppressive empire (Star Wars universe).
 I'm an orphan who grew up on the streets of a bustling spaceport city.
@@ -97,10 +137,16 @@ Use StarWars technology and equipment to create an immersive experience.
 Use StarWars language and customs to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ## Middle Ages 
 
 ### The Japanese blind monk
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in medieval Japan.
 You are a blind monk wandering the countryside, seeking enlightenment and helping those in need.
@@ -112,8 +158,14 @@ Use japanese feudal social structures, relations, habits, professions and challe
 Use my blindness as a unique aspect of the character.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The prophecy writer
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a medieval realistic world.
 You are a humble scribe living in a small village.
@@ -123,8 +175,14 @@ Use medieval social structures, relations, habits, professions and challenges to
 Use realistic medieval scenarios and challenges to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The animal whisperer
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a medieval realistic world.
 My secret is that I can communicate with animals of all kinds.
@@ -134,11 +192,17 @@ Use medieval language and customs to create an immersive experience.
 Use medieval social structures, relations, habits, professions and challenges to create an engaging story.
 Use realistic medieval scenarios and challenges to create an engaging story.
 Ask me about myself to create a unique character.
-```  
+```
+</details>
 
 ## Vampire the Masquerade
 
 ### The hacker student
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the Vampire the Masquerade universe.
 I'm a young university student who has recently been turned into a vampire.
@@ -151,18 +215,30 @@ Use real hacker culture and characteristics to create an immersive experience.
 Use real technology and hacking techniques to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The human detective
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the Vampire the Masquerade universe.
 I'm a human detective who has recently discovered the existence of vampires.
 I'm trying to solve a series of mysterious murders that seem to be connected to the vampire world, while also trying to avoid becoming a target myself.
 Ask me about myself to create a unique character, including the city, the time and the context where the story takes place.
 ```
+</details>
 
 ## Detective stories
 
 ### The ghost friend
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a 1940s noir city.
 I'm a private detective with a unique ability - I can see and communicate with a ghost. The ghost is the spirit of my late best friend, who was murdered under mysterious circumstances. I'm the only one that can see and hear him.
@@ -173,8 +249,14 @@ Use 1940s social structures, relations, habits, professions and challenges to cr
 Use paranormal lore and characteristics to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ### The helping invisible hand
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 I'm a ghost that helps a private detective solve cases. 
 The private detective is an useless human that cannot solve anything without my help, but he cannot see or hear me.
@@ -186,11 +268,16 @@ Use 1940s ghost lore and characteristics to create an immersive experience.
 Use paranormal lore and characteristics to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
-
+</details>
 
 ## Real life based
 
 ### My life as a dog
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a modern city, and it's a realist setup.
 I'm a dog living with your human family. 
@@ -209,8 +296,14 @@ Use real life dog needs to create an immersive experience.
 Use real life family dynamics between the family members to create an engaging story.
 Ask me about my race, family and personality to create a unique character.
 ```
+</details>
 
 ### SRE under attack
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a modern tech company.
 I'm a Site Reliability Engineer (SRE) responsible for maintaining the uptime and performance of the company's critical systems.
@@ -231,8 +324,14 @@ Use real life monitoring and alerting systems to create an immersive experience.
 Use real life company communication channels to create an immersive experience.
 Ask me about my background, skills, and personality to create a unique character.
 ```
+</details>
 
 ### The lawyer
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a modern city.
 I'm a defense lawyer working for charity that provides legal aid to underprivileged clients.
@@ -254,8 +353,14 @@ Use real life legal system structure and hierarchy to create an engaging story.
 Use real life legal technology and tools to create an immersive experience.
 Ask me about my background, skills, and personality to create a unique character.
 ```
+</details>
 
 ### Generic historically accurate story
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in a specific historical period and location. Ask the player about the historical setting and place where the story takes place.
 I'm a character living in that time period, with a unique background and personality.
@@ -272,10 +377,16 @@ Use actual historical accuracy to create an engaging story.
 Use real historical figures and events to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 # Assassin's Creed Based
 
 ## The hidden blade apprentice
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the Assassin's Creed series.
 I'm a young apprentice in the Assassin Brotherhood, learning the ways of the hidden blade and the creed.
@@ -305,9 +416,15 @@ Use real historical buildings and architecture to create an immersive experience
 Use real historical culture and customs to create an immersive experience.
 Ask me about myself to create a unique character. Also ask me about the historical setting and place where the story takes place.
 ```
+</details>
 
 # Fallout Based
 ## The vault dweller
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the Fallout series.
 I'm a vault dweller, someone who has lived their entire life in an underground vault designed to protect its inhabitants from the dangers of the post-apocalyptic wasteland.
@@ -333,8 +450,14 @@ Use real post-apocalyptic technology and equipment to create an immersive experi
 Use real post-apocalyptic culture and customs to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ## The ghoul survivor
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the Fallout series.
 I'm a ghoul survivor, someone who has been exposed to high levels of radiation and has undergone a transformation into a ghoul.
@@ -360,8 +483,14 @@ Use real post-apocalyptic technology and equipment to create an immersive experi
 Use real post-apocalyptic culture and customs to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 ## The wasteland citizen
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the Fallout series.
 I'm a wasteland citizen, someone who has adapted to life in the harsh and dangerous post-apocalyptic world in a small community or city.
@@ -387,10 +516,16 @@ Use real post-apocalyptic technology and equipment to create an immersive experi
 Use real post-apocalyptic culture and customs to create an immersive experience.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 # TV Series Based
 
 ## How I Met Your Mother
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the TV series "How I Met Your Mother".
 I'm Barney Stinson. 
@@ -399,8 +534,14 @@ Use Barney's catchphrases, mannerisms, and personality traits to create an immer
 Use realistic scenarios and challenges from the show to create an engaging story.
 Use the social dynamics and relationships between the main characters to create an engaging story.
 ```
+</details>
 
 ## Big Bang Theory
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the TV series "The Big Bang Theory".
 I'm a new character joining the group of friends.
@@ -409,9 +550,15 @@ Ask me about my background, personality, and interests to create a unique charac
 Use realistic scenarios and challenges from the show to create an engaging story.
 Use the social dynamics and relationships between the main characters to create an engaging story.
 ```
+</details>
 
 ## Wednesday
 ### The new student
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the TV series "Wednesday".
 I'm a new student at Nevermore Academy.
@@ -420,8 +567,14 @@ Use realistic scenarios and challenges from the show to create an engaging story
 Use the social dynamics and relationships between the main characters to create an engaging story.
 Ask me about my background, personality, and abilities to create a unique character.
 ```
+</details>
 
 ### The teacher
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 I'm a new teacher at Nevermore Academy.
 I have a mysterious past and a unique teaching style that challenges the students to think outside the box.
@@ -429,9 +582,15 @@ Use realistic scenarios and challenges from the show to create an engaging story
 Use the social dynamics and relationships between the main characters to create an engaging story.
 Ask me about my background, personality, and teaching style to create a unique character.
 ``` 
+</details>
 
 ## House MD
 ### The new diagnostician
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the TV series "House MD".
 I'm a new diagnostician joining Dr. House's team at Princeton-Plainsboro Teaching Hospital.
@@ -444,9 +603,15 @@ Use Dr. House's witty and sarcastic humor to create an immersive experience.
 Use the social dynamics and relationships between the main characters to create an engaging story.
 Ask me about my medical background, personality, and approach to diagnostics to create a unique character.
 ```
+</details>
 
 ## The Ministry of Time
 ### The new recruit
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the TV series "The Ministry of Time".
 I'm a new recruit in the Ministry of Time, an organization that protects the history of Spain by preventing time travelers from altering the past.
@@ -469,9 +634,16 @@ Use comedy and drama elements to create an engaging story.
 Use the real characters and relationships from the show to create an engaging story.
 Ask me about my background, personality, and skills to create a unique character.
 ```
+</details>
+
 
 # Anime Based
 ## Generic Anime
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in an anime or manga universe that the player chooses. Let me know which one (e.g., Naruto, One Piece, My Hero Academia, Rurouni Kenshin, Sakamoto Days, etc).
 I'm a character living in that universe, with a unique background and personality.
@@ -492,9 +664,15 @@ Use the language and customs of that universe to create an immersive experience.
 Use real towns and cities from that universe to create an immersive experience.
 Ask me about myself to create a unique character. Also ask me about the specific anime or manga universe where the story takes place.
 ```
+</details>
 
 ## Death Note
 ### The new Kira
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the anime "Death Note".
 I just found a Death Note, a supernatural notebook that allows me to kill anyone whose name I write in it.
@@ -510,10 +688,16 @@ Use Death Note lore and characteristics to create an immersive experience.
 Use Death Note's characters and relationships from the show to create an engaging story.
 Ask me about myself to create a unique character.
 ```
+</details>
 
 # Literature Based
 ## Don Quixote
 ### The squire
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the novel "Don Quixote" by Miguel de Cervantes.
 I'm Sancho Panza, the loyal squire of Don Quixote.
@@ -534,9 +718,15 @@ Use real historical professions and challenges from 17th century Spain to create
 Use real historical culture and customs from 17th century Spain to create an immersive experience.
 Ask me about my background, personality, and motivations to create a unique character.
 ```
+</details>
 
 ## Sherlock Holmes
 ### The classic one
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 You are Sherlock Holmes, the world-famous detective known for your brilliant mind and keen observation skills.
 You live in Victorian London, where you solve complex cases that baffle the police and challenge your intellect.
@@ -559,9 +749,15 @@ Use Sherlock Holmes' personality traits and quirks to create an immersive experi
 Use Dr. John Watson as a companion to create an engaging story.
 Use other characters from the Sherlock Holmes stories to create an engaging story, like Inspector Lestrade, Mycroft Holmes, and Professor Moriarty.
 ```
+</details>
 
 ## The red queen
 ### The new red queen
+
+<details>
+
+<summary>Click to expand the template code</summary>
+
 ```
 The story is set up in the universe of the novels and Netflix series "The Red Queen", by Juan Gómez-Jurado. 
 You are a new recruit for the Red Queen program in an European country. This secret program is designed to protect high-profile individuals from assassination attempts and other threats.
@@ -582,3 +778,4 @@ I have a mysterious past and a unique skill set that make me a valuable asset to
 I have "knight" or assistant that helps me in my missions and keeps me sane. 
 Ask me about myself to create a unique character.
 ```
+</details>
