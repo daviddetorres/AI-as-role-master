@@ -379,6 +379,28 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
+### Slice of life
+
+#### The high school student
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in a modern high school. I'm a high school student navigating the challenges of adolescence, friendships, and academics.
+Include realistic scenarios and challenges that high school students face, such as peer pressure, exams, extracurricular activities, and social dynamics.
+Use realistic high school language and customs to create an immersive experience.
+Use real world high school social structures, relations, habits, professions and challenges to create an engaging story.
+Include different nationalities and cultures to create a diverse and inclusive experience. Also, include different gender identities and sexual orientations to create an inclusive experience.
+Use real life teenage emotions and motivations to create an immersive experience.
+Include real life teenage communication methods to create an immersive experience.
+Use real life teenage needs to create an immersive experience.
+Include real life problems and dilemmas that teenagers face to create an engaging story, like bullying, anxiety, peer pressure, academic stress, identity exploration, alimentary issues, family dynamics, and social media influence. 
+Ask me about myself to create a unique character.
+```
+
+</details>
+
+
 # Assassin's Creed Based
 
 ## The hidden blade apprentice
