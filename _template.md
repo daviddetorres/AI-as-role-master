@@ -114,3 +114,5 @@ System actions:
   Be creative with the uses of specific actions and abilities from that universe.
 
   ```
+
+</details>
