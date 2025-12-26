@@ -3,9 +3,7 @@
 Here are some example of settings and stories that you can use with the AI-as-role-master prompts. You can copy and paste them into your LLM of choice after the rules prompt to start a game in that setting.
 
 ## Cyberpunk Dystopia
-
 ### The scrapper
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -24,7 +22,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The transporter
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -43,7 +40,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The anarchist syndicate member
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -62,7 +58,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The Corpo agent
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -81,9 +76,25 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-## Space opera
-### The stormtrooper
+### The braindance recorder
+<details>
+<summary>Click to expand the template code</summary>
 
+```
+The story is set up in the Cyberpunk universe.
+You are a braindance recorder, someone who creates and sells immersive virtual reality experiences to clients. Ask me about what kind of braindances I create (entertainment, crime, fantasy, etc).
+You have a talent for capturing the essence of human emotions and experiences, and you use your skills to create braindances that transport users to new worlds and perspectives.
+Use cyberpunk language and customs to create an immersive experience.
+Use realistic cyberpunk scenarios and challenges to create an engaging story.
+Use cyberpunk social structures, relations, habits, professions and challenges to create an engaging story.
+Use cyberpunk cybernetic enhancements and technology to create an immersive experience.
+Use cyberpunk hacking techniques and cyber warfare tactics to create an engaging story.
+Ask me about myself to create a unique character. Ask about what kind of chrome I have installed to help me in my work and how it determines the kind of braindances I create.
+```
+</details>
+
+## Star Wars Universe
+### The stormtrooper
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -103,7 +114,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The scavenger
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -121,7 +131,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The orphan with a connection to the Force
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -140,9 +149,7 @@ Ask me about myself to create a unique character.
 </details>
 
 ## Middle Ages 
-
 ### The Japanese blind monk
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -161,7 +168,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The prophecy writer
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -178,7 +184,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The animal whisperer
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -195,10 +200,40 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
+### The pilgrim
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in a medieval realistic world.
+I'm a pilgrim on a journey to a holy site, seeking spiritual enlightenment and redemption, like Santiago de Compostela, Rome or Jerusalem.
+Use medieval language and customs to create an immersive experience.
+Use medieval social structures, relations, habits, professions and challenges to create an engaging story.
+Use realistic medieval scenarios and challenges to create an engaging story.
+Ask me about myself to create a unique character.
+Ask me about where I'm going, where do I come from, and what motivates me to undertake this pilgrimage. Ask me where I am in my journey, and what challenges I've faced so far. 
+Ask me about the the period and the location where the story takes place.
+```
+</details>
+
+### The cathedral builder
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in a medieval realistic world.
+I'm a master builder working on the construction of a grand cathedral.
+Use medieval language and customs to create an immersive experience.
+Use medieval social structures, relations, habits, professions and challenges to create an engaging story.
+Use realistic medieval scenarios and challenges to create an engaging story.
+Ask me about myself to create a unique character, including my background, skills, and personality.
+Ask me about the location and the period where the story takes place.
+```
+</details>
+
+
 ## Vampire the Masquerade
-
 ### The hacker student
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -217,8 +252,23 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-### The human detective
+### The strange bastard
+<details>
+<summary>Click to expand the template code</summary>
 
+```
+The story is set up in the Vampire the Masquerade universe.
+I'm a vampire of an unknown clan, with strange and unique abilities that set me apart from other vampires. My way of feeding is also unusual, not by blood, but by other means (ask me about it). This provides me with special abilities and powers that other vampires do not possess.
+Use vampire lore and characteristics to create an immersive experience.
+Create a mysterious and intriguing backstory for my character, exploring the origins of my unique abilities and feeding methods.
+Create a story where I must navigate the complex politics and power struggles of vampire society while also dealing with the challenges of my unusual nature.
+Create a background story of my life before becoming a vampire, and how it influences my actions and decisions as a vampire.
+Ask me about myself to create a unique character, including the city, the time and the context where the story takes place.
+```
+</details>
+
+
+### The human detective
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -232,9 +282,7 @@ Ask me about myself to create a unique character, including the city, the time a
 </details>
 
 ## Detective stories
-
 ### The ghost friend
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -252,7 +300,6 @@ Ask me about myself to create a unique character.
 </details>
 
 ### The helping invisible hand
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -270,36 +317,7 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-## Real life based
-
-### My life as a dog
-
-<details>
-
-<summary>Click to expand the template code</summary>
-
-```
-The story is set up in a modern city, and it's a realist setup.
-I'm a dog living with your human family. 
-I cannot speak, but I can learn human words (a limited number) and communicate through body language and actions.
-Every day is an adventure as I explore the world from my canine perspective, trying to understand human behavior and protect my family from various dangers (like mailmen, squirrels, and other dogs). I also like to create chaos in the house when no one is looking!
-Use realistic dog behavior and instincts to create an immersive experience. 
-Use real world scenarios and challenges to create an engaging story. 
-Use real human-dog relationships and interactions to create an engaging story.
-Use my breed characteristics to create a unique character.
-Use real life dog habits and challenges to create an engaging story.
-Use real life dog senses to create an immersive experience.
-Use real life dog emotions to create an immersive experience.
-Use real life dog motivations to create an immersive experience.
-Use real life dog communication methods to create an immersive experience.
-Use real life dog needs to create an immersive experience.
-Use real life family dynamics between the family members to create an engaging story.
-Ask me about my race, family and personality to create a unique character.
-```
-</details>
-
 ### SRE under attack
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -327,7 +345,6 @@ Ask me about my background, skills, and personality to create a unique character
 </details>
 
 ### The lawyer
-
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -355,8 +372,115 @@ Ask me about my background, skills, and personality to create a unique character
 ```
 </details>
 
-### Generic historically accurate story
+### The vet clinic
+<details>
+<summary>Click to expand the template code</summary>
 
+```
+I'm a veterinarian working at a busy animal clinic in a modern city.
+
+I care for a wide variety of animals, from household pets to exotic creatures, and I work tirelessly to ensure their health and well-being. Ask me about what kind of vet I am (small animals, large animals, exotic animals, etc).
+Use realistic veterinary scenarios and challenges to create an engaging story, where I must diagnose and treat various animal illnesses and injuries while navigating the complexities of running a busy clinic.
+Make sure to include interactions with pet owners, clinic staff, and other veterinarians.
+Use realistic veterinary jargon and scenarios to create an immersive experience.
+Use real world veterinary practices and procedures to solve the problems.
+Use real life vet-client relationships to create an engaging story.
+Use real life stress and pressure of being a veterinarian to create an immersive experience.
+Use real life animal behavior and communication to create an immersive experience.
+Use real life veterinary diagnostic and treatment methods to create an engaging story.
+Use real life veterinary team dynamics and roles to create an engaging story.
+Use real life veterinary technology and tools to create an immersive experience.
+Ask me about my background, skills, and personality to create a unique character.
+```
+</details>
+
+### The forensic scientist
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in a modern city. I'm a forensic scientist working for the city's crime lab.
+I analyze evidence collected from crime scenes to help solve cases and bring criminals to justice.
+Use realistic forensic science scenarios and challenges to create an engaging story, where I must use my expertise to analyze evidence and provide crucial information to law enforcement.
+Make sure to include interactions with police officers, detectives, and other forensic scientists.
+Use realistic forensic science jargon and scenarios to create an immersive experience.
+Use real world forensic science practices and procedures to solve the problems.
+Use real life forensic science team dynamics and interactions to create an engaging story.
+Use real life forensic science technology and equipment to create an immersive experience.
+Use real life forensic science methods and techniques to create an engaging story.
+Use real life forensic science challenges and dilemmas to create an engaging story.
+Use real life forensic science communication methods to create an immersive experience.
+Use real life forensic science documentation and reporting methods to create an immersive experience.
+Use real life forensic science legal and ethical considerations to create an engaging story.
+Ask me about my background, skills, and personality to create a unique character.
+```
+</details>
+
+### The supernatural investigator
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+I'm a supernatural investigator, someone who investigates paranormal phenomena and supernatural occurrences.
+Use realistic supernatural investigation scenarios and challenges to create an engaging story, where I must use my expertise to investigate and solve paranormal mysteries.
+Make sure to include interactions with clients, witnesses, and other supernatural investigators.
+Use realistic supernatural investigation jargon and scenarios to create an immersive experience.
+Use literature and folklore about supernatural phenomena to create an engaging story.
+Ask me about my background, skills, and personality to create a unique character. Maybe also, add a companion (human or supernatural) to help me in my investigations. Add also some backstory about how I became a supernatural investigator.
+Ask me also about what kind of supernatural investigator I am (ghosts, demons, cryptids, etc).
+```
+</details>
+
+## Animal perspective
+### My life as a dog
+<details>
+
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in a modern city, and it's a realist setup.
+I'm a dog living with your human family. 
+I cannot speak, but I can learn human words (a limited number) and communicate through body language and actions.
+Every day is an adventure as I explore the world from my canine perspective, trying to understand human behavior and protect my family from various dangers (like mailmen, squirrels, and other dogs). I also like to create chaos in the house when no one is looking!
+Use realistic dog behavior and instincts to create an immersive experience. 
+Use real world scenarios and challenges to create an engaging story. 
+Use real human-dog relationships and interactions to create an engaging story.
+Use my breed characteristics to create a unique character.
+Use real life dog habits and challenges to create an engaging story.
+Use real life dog senses to create an immersive experience.
+Use real life dog emotions to create an immersive experience.
+Use real life dog motivations to create an immersive experience.
+Use real life dog communication methods to create an immersive experience.
+Use real life dog needs to create an immersive experience.
+Use real life family dynamics between the family members to create an engaging story.
+Ask me about my race, family and personality to create a unique character.
+```
+</details>
+
+### The stray cat
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in a modern city, and it's a realist setup.
+I'm a stray cat trying to survive on the streets.
+I have to navigate the challenges of finding food, shelter, and avoiding dangers like cars, dogs, and unfriendly humans.
+Use realistic cat behavior and instincts to create an immersive experience.
+Use real world scenarios and challenges to create an engaging story.
+Use real human-cat relationships and interactions to create an engaging story.
+Use my breed characteristics to create a unique character.
+Use real life cat habits and challenges to create an engaging story.
+Use real life cat senses to create an immersive experience.
+Use real life cat emotions to create an immersive experience.
+Use real life cat motivations to create an immersive experience.
+Use real life cat communication methods to create an immersive experience.
+Use real life cat needs to create an immersive experience.
+Ask me about my race, background and personality to create a unique character.
+```
+</details>
+
+## Real life based
+### Generic historically accurate story
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -379,32 +503,72 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-### Slice of life
-
-#### The high school student
+### The anthropologist
 <details>
 <summary>Click to expand the template code</summary>
 
 ```
-The story is set up in a modern high school. I'm a high school student navigating the challenges of adolescence, friendships, and academics.
-Include realistic scenarios and challenges that high school students face, such as peer pressure, exams, extracurricular activities, and social dynamics.
-Use realistic high school language and customs to create an immersive experience.
-Use real world high school social structures, relations, habits, professions and challenges to create an engaging story.
+I'm an anthropologist studying a specific ethnic group in a specific historical period and location.
+The story is set up in a specific historical period and location. Ask the player about the historical setting and place where the story takes place.
+Use realistic anthropological scenarios and challenges to create an engaging story.
+Use that location and time period's language and customs to create an immersive experience.
+Use realistic scenarios and challenges from that location and time period to create an engaging story.
+Use that location and time period's social structures, relations, habits, professions and challenges to create an engaging story.
+Use that location and time period's technology and equipment to create an immersive experience.
+Use that location and time period's buildings and architecture to create an immersive experience.
+Use that location and time period's culture and customs to create an immersive experience.
+Use that location and time period's historical events and figures to create an engaging story.
+Use real towns and cities from that location and time period to create an immersive experience.
+Use the ethnic group's real traditions, rituals, and beliefs to create an immersive experience.
+Use the ethnic group's real social structures and relations to create an engaging story.
+Use the ethnic group real language and communication methods to create an immersive experience.
+Use actual historical accuracy to create an engaging story.
+Use real historical figures and events to create an engaging story.
+Ask me about myself to create a unique character, including my background, skills, and personality. Also ask me about the ethnic group I'm studying.
+```
+</details>
+
+### Slice of life
+#### The student
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in a modern high school or university. I'm a student navigating the challenges of adolescence, friendships, and academics.
+Include realistic scenarios and challenges that students face, such as peer pressure, exams, extracurricular activities, and social dynamics.
+Use realistic young people language and customs to create an immersive experience.
+Use real world young people social structures, relations, habits, professions and challenges to create an engaging story.
 Include different nationalities and cultures to create a diverse and inclusive experience. Also, include different gender identities and sexual orientations to create an inclusive experience.
 Use real life teenage emotions and motivations to create an immersive experience.
 Include real life teenage communication methods to create an immersive experience.
 Use real life teenage needs to create an immersive experience.
 Include real life problems and dilemmas that teenagers face to create an engaging story, like bullying, anxiety, peer pressure, academic stress, identity exploration, alimentary issues, family dynamics, and social media influence. 
-Ask me about myself to create a unique character.
+Ask me about where I live, my age, my background, my personality, and my interests to create a unique character. Also ask me about the type of school (high school or university) and the location where the story takes place. 
 ```
-
 </details>
 
+#### The part-time worker
+<details>
+<summary>Click to expand the template code</summary>
 
-# Assassin's Creed Based
+``` 
+The story is set up in a modern city. I'm a part-time worker juggling multiple jobs to make ends meet while pursuing my dreams.
+Include realistic scenarios and challenges that part-time workers face, such as time management, financial struggles, workplace dynamics, and personal aspirations.
+Use realistic young people language and customs to create an immersive experience.
+Use real world young people social structures, relations, habits, professions and challenges to create an engaging story.
+Include different nationalities and cultures to create a diverse and inclusive experience. Also, include different
+gender identities and sexual orientations to create an inclusive experience.
+Use real life young people emotions and motivations to create an immersive experience.
+Include real life young people communication methods to create an immersive experience.
+Use real life young people needs to create an immersive experience.
+Include real life problems and dilemmas that young people face to create an engaging story, like workplace harassment, financial stress, work-life balance, identity exploration, family dynamics, and social media influence.
+Ask me about myself to create a unique character.
+```
+</details>
 
-## The hidden blade apprentice
-
+## Video game based
+### Assassin's Creed Based
+#### The hidden blade apprentice
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -440,9 +604,8 @@ Ask me about myself to create a unique character. Also ask me about the historic
 ```
 </details>
 
-# Fallout Based
-## The vault dweller
-
+### Fallout Based
+#### The vault dweller
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -474,8 +637,7 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-## The ghoul survivor
-
+#### The ghoul survivor
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -507,8 +669,7 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-## The wasteland citizen
-
+#### The wasteland citizen
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -540,10 +701,9 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-# TV Series Based
-
-## How I Met Your Mother
-
+## TV Series Based
+### How I Met Your Mother
+#### Barney Stinson
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -558,8 +718,8 @@ Use the social dynamics and relationships between the main characters to create 
 ```
 </details>
 
-## Big Bang Theory
-
+### Big Bang Theory
+#### The new neighbor
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -574,9 +734,8 @@ Use the social dynamics and relationships between the main characters to create 
 ```
 </details>
 
-## Wednesday
-### The new student
-
+### Wednesday
+#### The new student
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -591,8 +750,7 @@ Ask me about my background, personality, and abilities to create a unique charac
 ```
 </details>
 
-### The teacher
-
+#### The teacher
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -606,9 +764,8 @@ Ask me about my background, personality, and teaching style to create a unique c
 ``` 
 </details>
 
-## House MD
-### The new diagnostician
-
+### House MD
+#### The new diagnostician
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -627,9 +784,27 @@ Ask me about my medical background, personality, and approach to diagnostics to 
 ```
 </details>
 
-## The Ministry of Time
-### The new recruit
+### Stranger Things
+#### The new Hawkins resident
+<details>
+<summary>Click to expand the template code</summary>
 
+```
+The story is set up in the universe of the TV series "Stranger Things".
+I'm a new resident of Hawkins, a small town with a dark secret.
+I've recently moved to Hawkins with my family, and I'm trying to adjust to life in this strange town while uncovering the mysteries that lurk beneath the surface.
+Use realistic scenarios and challenges from the show to create an engaging story.
+Use the personalities and dynamics of the existing characters of the series to create an engaging story.
+Use Stranger Things' supernatural elements and the Upside Down to create an immersive experience.
+Use Stranger Things' 1980s setting and culture to create an immersive experience.
+Use Stranger Things' friendship and teamwork themes to create an engaging story.
+Ask me about my background, personality, and motivations to create a unique character. This will affect how I interact with the other characters and the story and in which group of characters I fit best (the kids, the teens, the adults, the Hawkins lab workers, etc).
+Ask me about what season of the series the story takes place in. 
+```
+</details>
+
+### The Ministry of Time
+#### The new recruit
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -659,9 +834,8 @@ Ask me about my background, personality, and skills to create a unique character
 </details>
 
 
-# Anime Based
-## Generic Anime
-
+## Anime Based
+### Generic Anime
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -688,9 +862,8 @@ Ask me about myself to create a unique character. Also ask me about the specific
 ```
 </details>
 
-## Death Note
-### The new Kira
-
+### Death Note
+#### The new Kira
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -712,10 +885,9 @@ Ask me about myself to create a unique character.
 ```
 </details>
 
-# Literature Based
-## Don Quixote
-### The squire
-
+## Literature Based
+### Don Quixote
+#### The squire
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -742,9 +914,8 @@ Ask me about my background, personality, and motivations to create a unique char
 ```
 </details>
 
-## Sherlock Holmes
-### The classic one
-
+### Sherlock Holmes
+#### The classic one
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -773,9 +944,8 @@ Use other characters from the Sherlock Holmes stories to create an engaging stor
 ```
 </details>
 
-## The red queen
-### The new red queen
-
+### The red queen
+#### The new red queen
 <details>
 
 <summary>Click to expand the template code</summary>
@@ -799,5 +969,44 @@ Use real modern culture and customs to create an immersive experience.
 I have a mysterious past and a unique skill set that make me a valuable asset to the Red Queen team.
 I have "knight" or assistant that helps me in my missions and keeps me sane. 
 Ask me about myself to create a unique character.
+```
+</details>
+
+### Lord of the Rings
+#### The new member of the fellowship
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in the universe of the "Lord of the Rings" series by J.R.R. Tolkien.
+I'm a new member of the Fellowship of the Ring, a group of heroes tasked with destroying the One Ring and defeating the Dark Lord Sauron.
+I have a unique background and skills that make me a valuable asset to the team.
+Use realistic scenarios and challenges from the novels to create an engaging story.
+Use the personalities and dynamics of the existing Fellowship members to create an engaging story.
+Use Lord of the Rings' magic and combat techniques to create an immersive experience.
+Use Lord of the Rings' moral dilemmas and choices to create an engaging story.
+Use Lord of the Rings' faction dynamics and politics to create an engaging story.
+Use Lord of the Rings' exploration and discovery to create an engaging story.
+Use Lord of the Rings' lore and characteristics to create an immersive experience.
+Ask me about myself to create a unique character, including my race (human, elf, dwarf, hobbit, etc), background, personality, and skills.
+```
+</details>
+
+#### The orc warrior
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in the universe of the "Lord of the Rings" series by J.R.R. Tolkien.
+I'm an orc warrior, a member of the dark forces serving the Dark Lord Sauron.
+I have a unique background and skills that make me a valuable asset to the orc army.
+Use realistic scenarios and challenges from the novels to create an engaging story.
+Use the personalities and dynamics of the existing orc characters to create an engaging story.
+Use Lord of the Rings' magic and combat techniques to create an immersive experience.
+Use Lord of the Rings' moral dilemmas and choices to create an engaging story.
+Use Lord of the Rings' faction dynamics and politics to create an engaging story.
+Use Lord of the Rings' exploration and discovery to create an engaging story.
+Use Lord of the Rings' lore and characteristics to create an immersive experience.
+Ask me about myself to create a unique character, including my background, personality, and skills.
 ```
 </details>
