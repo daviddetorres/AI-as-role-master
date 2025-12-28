@@ -11,8 +11,8 @@ Also available at https://daviddetorres.github.io/AI-as-role-master/
     - Anthropic Claude
     - Google Gemini (not so good with complex stories, but fast and ok for simple ones. Also, it can generate pictures!)
 
-2. Find a prompt for the rules and style of the RPG you want to play from the section "Rules prompts" below. Copy it and paste it in your LLM of choice.
-3. You will be asked to define your story, ambience, characters, etc. Copy a prompt from the section "Example stories" below and paste it in your LLM of choice or create your own story prompt.
+2. Find a prompt for the [rules](rules-prompts.md). Copy it and paste it in your LLM of choice.
+3. You will be asked to define your story, ambience, characters, etc. Copy a prompt from [Example stories](stories-prompts.md) and paste it in your LLM of choice or create your own story prompt.
 4. Start playing!
 
 Notes: 
@@ -23,3 +23,4 @@ In the file [rules-prompts.md](rules-prompts.md) you will find a collection of p
 
 # Example stories
 In the file [stories-prompts.md](stories-prompts.md) you will find some example stories created with this system.
+

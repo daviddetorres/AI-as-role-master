@@ -231,6 +231,8 @@ Ask me about the location and the period where the story takes place.
 ```
 </details>
 
+### Other middle ages stories
+- [Lord of the Rings](#lord-of-the-rings)
 
 ## Vampire the Masquerade
 ### The hacker student
@@ -282,6 +284,7 @@ Ask me about myself to create a unique character, including the city, the time a
 </details>
 
 ## Detective stories
+
 ### The ghost friend
 <details>
 
@@ -430,6 +433,10 @@ Ask me about my background, skills, and personality to create a unique character
 Ask me also about what kind of supernatural investigator I am (ghosts, demons, cryptids, etc).
 ```
 </details>
+
+### Other detective stories
+- [House MD](#house-md)
+- [Sherlock Holmes](#sherlock-holmes)
 
 ## Animal perspective
 ### My life as a dog

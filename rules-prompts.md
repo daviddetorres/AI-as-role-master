@@ -211,7 +211,7 @@ System actions:
 
 ## Disco Elysium-like RPGs
 
-Rule set based on Disco Elysium.
+Rule set based on Disco Elysium, with inner voices and skills.
 
 <details>
 
@@ -526,7 +526,7 @@ System actions:
 
 ## Pokemon-like RPGs
 
-Rule set based on Pokemon-like RPGs.
+Rule set based on Pokemon-like RPGs. Capture and train creatures to battle.
 
 <details>
 <summary>Click to expand and copy</summary>
@@ -759,7 +759,9 @@ System actions:
 
 ## Deduction detective games
 
-Rule set based on deduction detective games (like Sherlock Holmes, Agatha Christie novels, etc.).
+Rule set based on deduction detective games (like Sherlock Holmes, Agatha Christie novels, etc.). You will have to gather clues, interview suspects, and solve mysteries. The game will set up a mystery and you will have to solve it using your deduction skills.
+
+Works great with [detective stories](stories-prompts.md#detective-stories). 
 
 <details>
 
@@ -950,7 +952,9 @@ System actions:
 
 ## Fallout-like RPG 
 
-Rule set based on the Fallout RPG system (S.P.E.C.I.A.L. attributes and skills).
+Rule set based on the Fallout RPG system (S.P.E.C.I.A.L. attributes and skills) and VATS combat system.
+
+Works great with [FallOut](stories-prompts.md#fallout-based) and [Cyberpunk](stories-prompts.md#cyberpunk-dystopia) stories.
 
 <details>
 <summary>Click to expand and copy</summary>
@@ -1169,7 +1173,9 @@ System actions:
 </details>
 
 ## Social simulation game
-Social simulation game where the player navigates complex social environments, builds relationships, and manages social status.
+Social simulation game where the player navigates complex social environments, builds relationships, and manages social status. No combat or physical challenges, but a lot of dialogue and decision-making.
+
+Works great with any story, but especially with [real life](stories-prompts.md#real-life-based) based stories.
 
 <details>
 
@@ -1296,6 +1302,8 @@ System actions:
 
 ## Changing the past
 Social simulation game where the player can go back in time and change past social interactions to alter relationships and outcomes. Similar to games like "Life is Strange" or films like "The Butterfly Effect". It also can be used in dynamics like "Theater of the Oppressed" where the player can explore different social scenarios and outcomes by changing past interactions.
+
+Works great with [slice of life](stories-prompts.md#slice-of-life) stories.
 
 <details>
 
