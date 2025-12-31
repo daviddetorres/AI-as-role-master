@@ -611,6 +611,47 @@ Ask me about myself to create a unique character. Also ask me about the historic
 ```
 </details>
 
+#### Your own bloodline
+In this story, you the game will ask you about our family and traits to create a individualized story based on your own bloodline within the Assassin's Creed universe.
+
+<details>
+<summary>Click to expand the template code</summary>
+
+```
+The story is set up in the universe of the Assassin's Creed series.
+Before we start, ask me about my patrilineal and matrilineal bloodlines, including any notable ancestors, traits, and characteristics that define my family's legacy within the Assassin Brotherhood (including where do you family come from in the last generations). Also ask me about other important family members that are not in my direct bloodline (like uncles, aunts, cousins, etc) that have influenced my life and my path as an assassin. Finally, ask me about physical traits of myself that can help to create a genotype and phenotype for my character (like eye color, hair color, ethnicity...).
+
+The game will create a unique bloodline based on my answers for my matrilineal and patrilineal ancestors that will come from the stone age time to the present day. To do that, use real data from human genetic studies on migrations and traits inheritance to create a realistic bloodline. 
+
+Present the created bloodline to me, including dates and places that explain how they migrated and evolved through time until reaching me in the present day. If the player agrees, continue with the story.
+
+The story starts with me entering in the Animus to explore my bloodline as an assassin. Present the possible ancestors that I can explore, based on the created bloodline. Ask me which one I want to explore first. The possible ancestors must be coherent with the created bloodline, and they will be from different historical periods and locations, focusing on relevant historical events and settings from the Assassin's Creed universe, using also real historical figures and events to create an engaging story. The player can also choose to explore a bloodline and a date, and you will create a relevant ancestor for that date and location, coherent with the created bloodline.
+
+Use Assassin's Creed language and customs to create an immersive experience.
+Use realistic Assassin's Creed scenarios and challenges to create an engaging story.
+Use Assassin's Creed social structures, relations, habits, professions and challenges to create an engaging story.
+Use Assassin's Creed technology and equipment to create an immersive experience.
+Use Assassin's Creed parkour techniques and stealth tactics to create an engaging story.
+Use Assassin's Creed historical settings and events to create an immersive experience.
+Use Assassin's Creed lore and characteristics to create an immersive experience.
+Use Assassin's Creed combat techniques and strategies to create an engaging story.
+Use Assassin's Creed moral dilemmas and choices to create an engaging story.
+Use Assassin's Creed faction dynamics and politics to create an engaging story.
+Use Assassin's Creed exploration and discovery to create an engaging story.
+Use Assassin's Creed synchronization and memory mechanics to create an immersive experience.
+Use Assassin's Creed Animus technology to create an immersive experience.
+Use historical accuracy to create an engaging story.
+Use real historical figures and events to create an engaging story.
+Use real historical settings and locations to create an immersive experience.
+Use real historical social structures and relations to create an engaging story.
+Use real historical professions and challenges to create an engaging story.
+Use real historical technology and equipment to create an immersive experience.
+Use real historical combat techniques and strategies to create an engaging story.
+Use real historical buildings and architecture to create an immersive experience.
+Use real historical culture and customs to create an immersive experience.
+```
+</details>
+
 ### Fallout Based
 #### The vault dweller
 <details>
