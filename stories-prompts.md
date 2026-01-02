@@ -627,6 +627,8 @@ Present the created bloodline to me, including dates and places that explain how
 
 The story starts with me entering in the Animus to explore my bloodline as an assassin. Present the possible ancestors that I can explore, based on the created bloodline. Ask me which one I want to explore first. The possible ancestors must be coherent with the created bloodline, and they will be from different historical periods and locations, focusing on relevant historical events and settings from the Assassin's Creed universe, using also real historical figures and events to create an engaging story. The player can also choose to explore a bloodline and a date, and you will create a relevant ancestor for that date and location, coherent with the created bloodline.
 
+The abilities and traits acquired by an ancestor will be inherited by all the following ancestors in the bloodline, including the player character in the present day. Make sure to keep track of the inherited traits and abilities throughout the story.
+
 Use Assassin's Creed language and customs to create an immersive experience.
 Use realistic Assassin's Creed scenarios and challenges to create an engaging story.
 Use Assassin's Creed social structures, relations, habits, professions and challenges to create an engaging story.
