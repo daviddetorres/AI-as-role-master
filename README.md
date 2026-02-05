@@ -21,6 +21,8 @@ Notes:
 # Rules prompts
 In the file [rules-prompts.md](rules-prompts.md) you will find a collection of prompts for different RPG systems and styles. Choose the one that fits your needs the best!
 
+To add or edit rule sets (build, update, create), see [Authoring rule sets](AUTHORING_RULE_SETS.md).
+
 # Example stories
 In the file [stories-prompts.md](stories-prompts.md) you will find some example stories created with this system.
 

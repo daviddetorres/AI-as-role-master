@@ -1,0 +1,20 @@
+# Rules prompts
+
+In this section, you'll find a variety of prompts tailored for different RPG systems. Feel free to customize them to better fit your gaming style and preferences.
+
+{% for rule in rules %}
+## {{ rule.title }}
+
+{{ rule.intro }}
+
+<details>
+
+<summary>Click to expand and copy</summary>
+
+```md
+{{ rule.prompt_body }}
+```
+
+</details>
+
+{% endfor %}
