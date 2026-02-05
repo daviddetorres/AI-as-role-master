@@ -54,14 +54,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP).
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.).
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant).
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
@@ -123,14 +131,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP).
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.).
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant).
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
@@ -255,14 +271,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP).
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.).
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant).
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
@@ -328,14 +352,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP).
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.).
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant).
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
@@ -396,23 +428,27 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP). In this mode, @xp lists milestones or achievements, not experience points.
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.). In this mode, use for current situation or emotional state, not numeric condition.
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant). In this mode, emphasize social standing and how others see the player.
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
 
 After the player defines ambiance and plot, define @-actions from that universe (e.g. @cast (spell) for Harry Potter, @attack (move) for Dragon Ball, @deduce for Sherlock). Be creative and consistent with the setting.
-
-- @options / @opts — List all possible actions the player can take right now, given the current situation, environment, and characters present.
-- @objs — List all objects in the current location with brief description and potential uses or significance.
-- @people — List all characters in the current location with brief description and relationship to the player.
 ```
 
 </details>
@@ -469,14 +505,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP). In this mode, @xp lists milestones or achievements, not experience points.
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.). In this mode, use for current situation or emotional state, not numeric condition.
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant). In this mode, emphasize social standing and how others see the player.
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
@@ -534,14 +578,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP).
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.).
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant).
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
@@ -606,14 +658,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP). In this mode, @xp lists milestones or achievements, not experience points.
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.). In this mode, use for current situation or emotional state, not numeric condition.
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant). In this mode, emphasize social standing and how others see the player.
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
@@ -679,14 +739,22 @@ System actions: do not advance the story when the player uses system actions or 
 - desc [object/character/place] — Detailed description and technical sheet if applicable; do not reveal undiscovered information.
 - @xp / @exp — Evaluate character evolution from actions and achievements; output updated sheet only when they achieved something relevant or passed a significant check (no free XP). In this mode, @xp lists milestones or achievements, not experience points.
 - @quests — List active and completed quests with brief description and status.
+- @goals — List the player's stated session or campaign goals (what they want to achieve); use to steer the narrative toward them. Distinct from @quests (in-world tasks).
+- @status — Current condition at a glance: health, wounds, active effects (buffs, debuffs, rads, etc.). In this mode, use for current situation or emotional state, not numeric condition.
 - @map — Describe current area: landmarks, paths, points of interest, known or presumed characters.
 - @diag (inside an action) — Add a mermaid diagram for complex scenarios (relationships, locations, events). Avoid quotes, non-alphanumeric or accented characters in Mermaid code.
 - @ascii (inside an action) — Add ASCII art for the situation (chart, map, or drawing).
 - @table (inside an action) — Add a table for relevant info (stats, inventory, relationships).
 - @pic (inside an action) — Add a simple image of the situation; style must match the ambiance.
 - @characters / @npc — List NPCs encountered with brief description and relationship to player.
+- @people — List characters present in the current scene with brief description and relationship to player (subset of @characters for "who is here right now").
+- @objs — List objects in the current location with brief description and potential uses or significance.
+- @options / @opts — List possible actions the player can take right now given the current situation, environment, and characters present.
+- @recap — Short summary of the last scene or last few exchanges (for session re-entry); distinct from @story which covers from the beginning.
+- @relationships — Summary of relationships: reputation, trust, alliances, rivalries with key NPCs (and between NPCs if relevant). In this mode, emphasize social standing and how others see the player.
 - @time — Current in-game time and date; relevant events or changes since last check.
 - @location — Current location with landmarks and points of interest.
+- @lore / @world — In-world knowledge learned so far: factions, places, history, customs, rumours (no undiscovered spoilers). Distinct from @rules (mechanics).
 - @story — Brief summary of the story from the beginning so far (events, character developments).
 - @rules — Summary of mechanics and rules; include player feedback or adjustments during the game. Use to adjust narrative and mechanics to player preferences and any drift from original rules.
 - @help — List all available commands.
