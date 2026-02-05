@@ -59,19 +59,23 @@ def build_prompt_body(env: Environment, rule_id: str) -> str:
     if (RULES_DIR / rule_id / "opening.j2").exists():
         parts.append(render_fragment(env, opening_rel))
 
-    # common phase1-base
-    parts.append(render_fragment(env, "common/phase1-base.j2"))
+    # common phase1-base (pass rule_id for statless handling)
+    parts.append(render_fragment(env, "common/phase1-base.j2", rule_id=rule_id))
 
     # mechanics
     mechanics_rel = f"rules/{rule_id}/mechanics.j2"
     if (RULES_DIR / rule_id / "mechanics.j2").exists():
         parts.append(render_fragment(env, mechanics_rel))
 
-    # common phase2, formatting, system-actions-core
-    for name in ("phase2.j2", "formatting.j2", "system-actions-core.j2"):
-        rel = f"common/{name}"
-        if (COMMON_DIR / name).exists():
-            parts.append(render_fragment(env, rel))
+    # common phase2 (pass rule_id for changing-the-past exception)
+    if (COMMON_DIR / "phase2.j2").exists():
+        parts.append(render_fragment(env, "common/phase2.j2", rule_id=rule_id))
+    # formatting
+    if (COMMON_DIR / "formatting.j2").exists():
+        parts.append(render_fragment(env, "common/formatting.j2"))
+    # system-actions-core (pass rule_id for statless note)
+    if (COMMON_DIR / "system-actions-core.j2").exists():
+        parts.append(render_fragment(env, "common/system-actions-core.j2", rule_id=rule_id))
 
     # optional extra-actions
     extra_rel = f"rules/{rule_id}/extra-actions.j2"
