@@ -1,0 +1,42 @@
+name: Build and test rules prompts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'prompts/**'
+      - 'scripts/**'
+      - '.github/workflows/build-rules-prompts.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'prompts/**'
+      - 'scripts/**'
+      - '.github/workflows/build-rules-prompts.yml'
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build rules-prompts.md
+        run: python scripts/build.py
+
+      - name: Run tests
+        run: pytest scripts/test_build.py -v
+
+      - name: Validate output matches committed file
+        run: |
+          git diff --exit-code rules-prompts.md || (
+            echo "::error::rules-prompts.md is out of date. Run 'python scripts/build.py' and commit the changes."
+            exit 1
+          )
