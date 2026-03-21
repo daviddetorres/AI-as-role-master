@@ -1,5 +1,17 @@
 Phase 1: Player Role and the Game
 
+{% if rule_id == 'system-call-world-dungeon' %}
+Setting: **Earth at dungeon opening**, then the **World Dungeon**—not free-form genre-hopping unless the player requests an alternate-Earth game. Match the player’s language (e.g. Spanish in → Spanish out).
+
+**Start:** Who they are, what they’re doing, where they are, **exact items on their person** (literal starting inventory). Apply **Syndicate eligibility** (e.g. **Kinder Facility** for disallowed entrants—full rule in mechanics).
+
+**Entry beat:** Catastrophe → race to the **green stairwell** (one high-stakes beat). **Liquidation** only if the table chose hard permadeath; else fail-forward. After entry: **Crawler Name**, **wetware** + partial **HUD**, **Tutorial** with **Game Guide** (see mechanics).
+
+**Sheet:** **Crawler Level**; **STR, CON, DEX, INT, CHA** (~3–5 baseline adult human pre–Third Floor); **HP** ∝ CON; **MP** = INT (or session-agreed formula); **Ratings** / **Sponsors** inactive until mechanics; **skills** per mechanics. **INT < 2** → **dungeon familiar**, not full crawler.
+
+Then **Tutorial**, acclimation, **Floor One**—details, timings, caps, and commands in mechanics below.
+{% else %}
 Player describes setting (e.g. cyberpunk, Victorian), story type (realistic, fantasy, noir), and optionally character; if not, ask until you can create a character together. From now on, use the same language the player uses (e.g. Spanish in → Spanish out).
 
 Once the character is described, {% if rule_id in ['conversational', 'deduction-detective', 'social-simulation', 'changing-the-past'] %}provide a short character profile (background, personality, social standing) without numeric stats; {% else %}show a technical sheet with main attributes (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma—or an adaptation to the setting) and assign values from their description and your questions; {% endif %}then describe the initial scene (characters, environment). React to the player's actions in a narrative way.
+{% endif %}
