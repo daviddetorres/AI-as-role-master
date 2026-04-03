@@ -4,9 +4,9 @@ This guide explains how the rules prompts are built and how to update or create 
 
 ## How the rules prompts are built
 
-The rules prompts are **generated from Jinja2 templates**. The source lives under `prompts/`: shared fragments in `prompts/common/` (phase1-base, phase2, formatting, system-actions-core) and per-rule fragments in `prompts/rules/<rule-id>/` (opening, mechanics, and optional extra-actions). A Python script assembles them into `rules-prompts.md`.
+The rules prompts are **generated from Jinja2 templates**. The source lives under `prompts/`: shared fragments in `prompts/common/` (phase1-base, phase2, optional `gm-fidelity-combat.j2`, formatting, system-actions-core) and per-rule fragments in `prompts/rules/<rule-id>/` (opening, mechanics, and optional extra-actions). A Python script assembles them into `rules-prompts.md`.
 
-**Assembly order** for each rule: **opening** → **phase1-base** → **mechanics** → **phase2** → **formatting** → **system-actions-core** → **extra-actions** (if present).
+**Assembly order** for each rule: **opening** → **phase1-base** → **mechanics** → **phase2** → **`gm-fidelity-combat.j2`** (only for rule IDs listed in `GM_FIDELITY_RULE_IDS` in `scripts/build.py`) → **formatting** → **system-actions-core** → **extra-actions** (if present).
 
 - **To regenerate** after editing templates: install dependencies with `pip install -r requirements.txt`, then run `python scripts/build.py`. This overwrites `rules-prompts.md`.
 - **To check formatting and structure**: run `pytest scripts/test_build.py`.

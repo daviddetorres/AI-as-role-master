@@ -23,6 +23,17 @@ COMMON_DIR = PROMPTS_DIR / "common"
 TEMPLATES_DIR = PROMPTS_DIR / "templates"
 OUTPUT_FILE = REPO_ROOT / "rules-prompts.md"
 
+# Rules that include shared GM fidelity / declaration / combat-stance guidance
+GM_FIDELITY_RULE_IDS = frozenset({
+    "dnd",
+    "dice-pool",
+    "disco-elysium",
+    "pokemon",
+    "fallout",
+    "deduction-detective",
+    "system-call-world-dungeon",
+})
+
 
 def load_index():
     path = RULES_DIR / "_index.yaml"
@@ -70,6 +81,8 @@ def build_prompt_body(env: Environment, rule_id: str) -> str:
     # common phase2 (pass rule_id for changing-the-past exception)
     if (COMMON_DIR / "phase2.j2").exists():
         parts.append(render_fragment(env, "common/phase2.j2", rule_id=rule_id))
+    if rule_id in GM_FIDELITY_RULE_IDS and (COMMON_DIR / "gm-fidelity-combat.j2").exists():
+        parts.append(render_fragment(env, "common/gm-fidelity-combat.j2", rule_id=rule_id))
     # formatting
     if (COMMON_DIR / "formatting.j2").exists():
         parts.append(render_fragment(env, "common/formatting.j2"))
